@@ -1,0 +1,10 @@
+# Ignore system files
+AppData/
+Contacts/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+OneDrive/
+PythonDev/
+Saved Games/
+VirtualBox VMs/
